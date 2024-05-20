@@ -15,8 +15,8 @@ public class Hello {
                 { "Abecadlo z pieca spadlo" },
                 { "I o ziemie się rozjebalo" }
         };
-        // System.out.println("No elo mordo\n"+abecadlo[0][0]);
-        // System.out.println("\n"+abecadlo[1][0]);
+         System.out.println("No elo mordo\n"+abecadlo[0][0]);
+         System.out.println("\n"+abecadlo[1][0]);
     }
 }
 
